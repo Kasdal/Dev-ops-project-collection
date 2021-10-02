@@ -40,7 +40,8 @@ You will be able to see the output of the script in the powershell window.
 
 After the provisioning of the server and script nginx will be installed and you can check the validity of it by opening another powershell and running 
 
-```curl <ip of the server>
+```
+curl <ip of the server>
 ```
 ##
 Or alternatively opening your browser and entering the server ip.
