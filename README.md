@@ -15,6 +15,25 @@ So infrastrucuture, initial website deployment, premissions and the rest will ne
 With the ability to repeat the same process with a single or collection of scripts.
 
 
+### ✅  Step-by-step Instructions
+Download the project to your local machine and open it in VSCode, PowerShell or some other IDE.
+Open a terminal in VSCode
+<hr>
+Start by running the following commands
+
+```
+"Vagrant init" 
+```
+to initialise the provisioning of virtual machines.
+
+
+
+```
+"Vagrant up"
+```
+to start your machine
+
+```
 
 
 
